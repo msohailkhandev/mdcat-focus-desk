@@ -1,0 +1,14 @@
+node_modules/
+out/
+release/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+
+# Transfer/temp artifacts (not part of the project)
+_*.tgz
+_to_delete/

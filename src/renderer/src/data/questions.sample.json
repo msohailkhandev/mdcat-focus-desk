@@ -1,0 +1,103 @@
+[
+  {
+    "id": "phy-kin-001",
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "stem": "A car accelerates uniformly from rest to 20 m/s in 5 s. What is its acceleration?",
+    "options": ["2 m/s²", "4 m/s²", "5 m/s²", "100 m/s²"],
+    "answerIndex": 1
+  },
+  {
+    "id": "phy-kin-002",
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "stem": "A ball is thrown vertically upward. At the highest point, its velocity and acceleration are respectively:",
+    "options": ["zero, zero", "zero, g downward", "maximum, zero", "zero, g upward"],
+    "answerIndex": 1
+  },
+  {
+    "id": "phy-ele-001",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "stem": "Two 6 Ω resistors are connected in parallel. The equivalent resistance is:",
+    "options": ["12 Ω", "6 Ω", "3 Ω", "1.5 Ω"],
+    "answerIndex": 2
+  },
+  {
+    "id": "chem-sto-001",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "stem": "How many moles of water are produced when 2 moles of hydrogen gas react completely with oxygen (2H₂ + O₂ → 2H₂O)?",
+    "options": ["1", "2", "3", "4"],
+    "answerIndex": 1
+  },
+  {
+    "id": "chem-sto-002",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "stem": "The number of particles in one mole of a substance is approximately:",
+    "options": ["6.02 × 10²³", "6.02 × 10²²", "3.01 × 10²³", "1.0 × 10²³"],
+    "answerIndex": 0
+  },
+  {
+    "id": "chem-bond-001",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "stem": "Which type of bond is formed by the sharing of electron pairs between atoms?",
+    "options": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+    "answerIndex": 1
+  },
+  {
+    "id": "bio-cell-001",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "stem": "Which organelle is the main site of ATP production in eukaryotic cells?",
+    "options": ["Ribosome", "Golgi apparatus", "Mitochondrion", "Lysosome"],
+    "answerIndex": 2
+  },
+  {
+    "id": "bio-cell-002",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "stem": "The phase of mitosis in which chromatids separate and move to opposite poles is:",
+    "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "answerIndex": 2
+  },
+  {
+    "id": "bio-gen-001",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "stem": "In a monohybrid cross between two heterozygous parents (Aa × Aa), the expected phenotypic ratio is:",
+    "options": ["1:1", "1:2:1", "3:1", "9:3:3:1"],
+    "answerIndex": 2
+  },
+  {
+    "id": "eng-gram-001",
+    "subject": "English",
+    "topic": "Grammar",
+    "stem": "Choose the correct sentence.",
+    "options": [
+      "Neither of the students have finished.",
+      "Neither of the students has finished.",
+      "Neither of the student has finished.",
+      "Neither of the students were finished."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "eng-vocab-001",
+    "subject": "English",
+    "topic": "Vocabulary",
+    "stem": "The word closest in meaning to \"benevolent\" is:",
+    "options": ["Hostile", "Kind", "Careless", "Wealthy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "lr-seq-001",
+    "subject": "Logical Reasoning",
+    "topic": "Sequences",
+    "stem": "What is the next number in the sequence 2, 6, 12, 20, 30, …?",
+    "options": ["40", "42", "44", "48"],
+    "answerIndex": 1
+  }
+]
